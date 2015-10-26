@@ -1,0 +1,65 @@
+* {
+  font-family: 'Oswald', sans-serif;
+  margin :0;
+  padding: 0;
+}
+
+body {
+  background-color: #E4EAEA;
+}
+
+h1 {
+  padding : 6% 0 6% 5%;
+  font-size: 3em;
+}
+header {
+  background-color: rgba(100, 127, 123, 0.5);
+}
+button {
+  background-color: rgba(175, 216, 211, 0.5);
+  width : 20%;
+  height : 50px;
+  margin-left: 4%;
+}
+nav {
+  width: 600px;
+  height: 300px;
+  background-color: rgba(21, 26, 25, 0.2);
+  margin: 50px auto;
+  text-align: center;
+  font-size: 2em;
+}
+
+footer {
+  background-color: rgba(100, 127, 123, 0.5);
+  padding : 6% 0 6% 5%;
+  font-size: 2em;
+}
+#matin {
+  background-image: url(cafe.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+#soir {
+  background-image: url(tisane.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+nav a {
+  text-decoration: none;
+  color: #0F1E68;
+}
+
+#image_droite {
+  width: 300px;
+  float: right;
+}
+#image_gauche {
+  width: 300px;
+  float: left;
+  margin-right: 7px;
+}
+article {
+  width: 60%;
+  margin : 50px auto;
+}
