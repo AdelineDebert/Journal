@@ -16,10 +16,14 @@ h1 {
 }
 header {
   background-color: rgba(100, 127, 123, 0.5);
-  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/d6/de/d6/d6ded66516126fc5c93138770fdd5df6.jpg);
+  background-image: url(grumpycatlundi.jpg);
 }
 #accueil {
   height: 275px;;
+}
+header {
+  background-color: rgba(100, 127, 123, 0.5);
+
 }
 button {
   background-color: rgba(175, 216, 211, 0.5);
@@ -27,11 +31,13 @@ button {
   height : 50px;
   margin-left: 4%;
 }
+
 button a {
   text-decoration: none;
   color: #BD0019;
   text-shadow: 0 0 7px white;
 }
+
 nav {
   width: 600px;
   height: 300px;
